@@ -1,4 +1,4 @@
-package de.twimbee.vbparser.next;
+package de.twimbee.vbparser;
 
 import java.util.ArrayList;
 import java.util.List;

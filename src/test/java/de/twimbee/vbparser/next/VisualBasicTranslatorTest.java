@@ -10,6 +10,9 @@ import java.util.Map;
 
 import org.junit.Test;
 
+import de.twimbee.vbparser.JpaPojoDescriptor;
+import de.twimbee.vbparser.VisualBasicTranslator;
+
 public class VisualBasicTranslatorTest {
 
     VisualBasicTranslator translator = new VisualBasicTranslator();

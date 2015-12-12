@@ -1,4 +1,4 @@
-package de.twimbee.vbparser.next;
+package de.twimbee.vbparser;
 
 import java.io.IOException;
 import java.nio.file.Files;

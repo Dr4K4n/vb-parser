@@ -1,4 +1,4 @@
-package de.twimbee.vbparser.next;
+package de.twimbee.vbparser;
 
 public class PropertyDescriptor {
     private String name;
